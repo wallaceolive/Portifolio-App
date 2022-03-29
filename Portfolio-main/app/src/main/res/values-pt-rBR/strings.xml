@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="toolBarTitle">Repositório</string>
+    <string name="action_search">Pesquisar</string>
+</resources>
